@@ -1,4 +1,6 @@
-- [**Home**](README.md)
-
 - [**Regras**](_regras.md)
-- [**Palestrantes**](_palestrantes.md)
+- [**Palestras**](_palestras.md)
+- **Palestrantes**
+    - [**Davi Baptista**](./palestrantes/_davibaptista.md)
+    - [**Alberto Miranda**](./palestrantes/_albertomiranda.md)
+    - [**Renan ventura**](./palestrantes/_renanventura.md)

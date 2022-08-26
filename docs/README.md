@@ -4,4 +4,4 @@ Bem-vindos à Game Jam FGA. Este evento foi pensado e desenvolvido para as pesso
 
 Agradecemos o interesse de todos que se inscreveram nessa atividade e esperamos que todos tenham muito proveito dela ao longo da semana universitária.
 
-Tendo isto dito venham conhecer mais sobre as [regras](./_regras.md) e sobre os nossos [palestrantes do evento](./_palestrantes.md)
+Tendo isto dito venham conhecer mais sobre as [regras](./_regras.md) e sobre os nossas [palestras do evento](./_palestras.md)
