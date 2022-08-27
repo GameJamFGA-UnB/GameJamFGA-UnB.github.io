@@ -46,4 +46,4 @@ A avaliação dos jogos será realizada dia 02/09/2022 (Sexta-feira) pelos criad
 
 ### 2.5 Repositórios
 
-Os repositórios devem ser criados pela própria equipe a partir de um repositório template disponibilizado pelos organizadores e devem fazer parte da organização para contarem como participantes.
+Os repositórios devem ser criados pela própria equipe a partir de um [repositório template](https://github.com/GameJamFGA-UnB/template) disponibilizado pelos organizadores e devem fazer parte da organização para contarem como participantes.
