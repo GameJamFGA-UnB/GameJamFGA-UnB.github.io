@@ -2,6 +2,7 @@
 - [**Palestras**](_palestras.md)
 - [**Palestrantes**]()
     - [**Davi Baptista**](./palestrantes/_davibaptista.md)
+    - [**Anthony Viana**](./palestrantes/_anthonyviana.md)
     - [**Alberto Miranda**](./palestrantes/_albertomiranda.md)
     - [**Renan ventura**](./palestrantes/_renanventura.md)
     - [**João Vitor**](./palestrantes/_joaovitor.md)
