@@ -6,7 +6,7 @@ Davi Baptista é Game Designer, com experiência em jogos mobile, PC e Xbox. For
 
 ## Slide
 
-[Game Design - O que não te falam](../assets/slides/GameDesign-Oquenaotefalam.pdf)
+[Game Design - O que não te falam](https://github.com/GameJamFGA-UnB/GameJamFGA-UnB.github.io/blob/main/docs/assets/slides/GameDesign-Oquenaotefalam.pdf)
 
 ## Contato
 
